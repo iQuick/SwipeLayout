@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_swipe_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SwipeBackActivity" />
+
+    <Button
+        android:id="@+id/btn_swipe_switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SwipeSwitchActivity" />
+
+</LinearLayout>
